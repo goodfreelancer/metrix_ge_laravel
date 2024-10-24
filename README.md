@@ -1,6 +1,7 @@
 metrix.ge
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2c58b409-78b7-4cb9-a4b9-3dad028ac06d)
+
 
 
 <p align="center">
